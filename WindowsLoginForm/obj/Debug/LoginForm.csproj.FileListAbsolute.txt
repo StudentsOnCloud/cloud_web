@@ -1,0 +1,10 @@
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\bin\Debug\WindowsLoginForm.exe.config
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\bin\Debug\WindowsLoginForm.exe
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\bin\Debug\WindowsLoginForm.pdb
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\WindowsLoginForm.Form1.resources
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\WindowsLoginForm.Properties.Resources.resources
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\WindowsLoginForm.exe
+C:\Users\serha\source\repos\WindowsLoginForm\WindowsLoginForm\obj\Debug\WindowsLoginForm.pdb
